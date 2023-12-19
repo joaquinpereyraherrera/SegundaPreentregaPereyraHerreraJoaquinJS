@@ -67,4 +67,4 @@ function barbero(){
 
 barbero()
 
-alert("Turno agendado, muchas gracias por confiar en nosotros!");
+alert("Turno agendado, muchas gracias por confiar en nosotros!");//Salida
